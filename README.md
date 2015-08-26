@@ -1,0 +1,2 @@
+# MyAssetManager
+Script minification assets
