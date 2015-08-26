@@ -1,0 +1,6 @@
+build/
+!tests/app/web/assets/.gitkeep
+vendor/
+composer.lock
+composer.phar
+phpunit.xml
